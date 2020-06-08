@@ -5,3 +5,4 @@ LEVIR-CD/
 logs/
 checkpoints/
 test_set/
+GAN_checkpoints/
