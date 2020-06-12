@@ -3,7 +3,6 @@
 .DS_Store
 LEVIR-CD/
 logs/
-checkpoints*
+*checkpoints*
 test_set/
-GAN_checkpoints/
 model.save/
